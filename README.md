@@ -1,4 +1,4 @@
-# Online-learning-web-templete
+# Online-learning-School-System
                        _____  _                    _   _____        _                    _ 
                       / ____|| |                  | | / ____|      | |                  | |
                      | |     | |  ___   _   _   __| || (___    ___ | |__    ___    ___  | |
